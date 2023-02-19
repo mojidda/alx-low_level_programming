@@ -7,12 +7,13 @@
  */
 
 int main(void)
-}	
-	char i;
+{	
+	char alx;
 
-	for (i = 'a' ; i <= 'z' ; i++)
-		putchar(i);
+	for (alx = 'a' ; alx <= 'z' ; alx++)
+		putchar(alx);
 	putchar('\n');
 	return (0);
-{	
+}	
+	
 		
