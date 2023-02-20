@@ -15,5 +15,4 @@ int main(void)
 		putchar(alx);
 	putchar('\n');
 	return (0);
-}	
-	
+}
