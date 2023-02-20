@@ -12,4 +12,4 @@ if (alx != 'q' && alx != 'e')
 putchar(alx);
 putchar('\n');
 return (0);
-}	
+}
